@@ -1,0 +1,28 @@
+{
+  "name": "network-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SonoIo/network-utils",
+  "authors": [
+    "Inside a bit"
+  ],
+  "description": "Network utils for browser",
+  "main": "lib/Network.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Backbone",
+    "network",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
