@@ -1,6 +1,6 @@
 {
   "name": "network-utils",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Network utils for browser",
   "main": "lib/Network.js",
   "scripts": {
@@ -16,10 +16,10 @@
     "utils"
   ],
   "contributors": [
-    { "name" : "Matteo Baggio", 
+    { "name" : "Matteo Baggio",
       "email" : "matteo.baggio@gmail.com"
     },
-    { "name" : "Michele Belluco", 
+    { "name" : "Michele Belluco",
       "email" : "michele@belluco.info"
     }
   ],
