@@ -1,6 +1,6 @@
 {
   "name": "network-utils",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "homepage": "https://github.com/SonoIo/network-utils",
   "description": "Network utils for browser",
   "main": "lib/Network.js",
